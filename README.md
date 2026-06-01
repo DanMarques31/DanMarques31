@@ -1,4 +1,4 @@
-# Hi there! I'm Daniel Araújo 👋
+# Hi there! I'm Daniel Araújo 👨🏻‍💻
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DanMarques31&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile Views" />
@@ -9,7 +9,7 @@
 *   🎓 **B.S. in Computer Science** (Final Year) at **[UFSJ](https://www.ufsj.edu.br/)**
 *   💼 **Fullstack Developer & Intern** at **[AMG Brasil](https://amg-nv.com/)** (Advanced Metallurgical Group). I co-founded and build an Industry 4.0 MES (Manufacturing Execution System) which originated from a UFSJ-AMG research partnership.
 *   🚀 **Co-founder** at **Mestion** (Software Solutions Startup)
-*   🧠 **Interests**: Industrial Software, Industry 4.0, MES Systems, Data Science, AI Agents, Data Mining, and Machine Learning.
+*   🧠 **Interests**: Industry 4.0, MES Systems, Data Science, AI Agents, Data Mining, and Machine Learning.
 
 ---
 
