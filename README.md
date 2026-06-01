@@ -1,4 +1,4 @@
-# Hi there! I'm Daniel Araújo 👨🏻‍💻
+# Hi! I'm Daniel Araújo 👨🏻‍💻
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DanMarques31&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile Views" />
@@ -42,8 +42,8 @@
 
 Here are my GitHub metrics:
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanMarques31&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanMarques31&theme=solarized)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanMarques31&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanMarques31&theme=solarized)
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanMarques31&theme=tokyonight)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanMarques31&theme=solarized)
