@@ -9,14 +9,14 @@
 *   🎓 **B.S. in Computer Science** (Final Year) at **[UFSJ](https://www.ufsj.edu.br/)**
 *   💼 **Fullstack Developer & Intern** at **[AMG Brasil](https://amg-nv.com/)** (Advanced Metallurgical Group). I co-founded and build an Industry 4.0 MES (Manufacturing Execution System) which originated from a UFSJ-AMG research partnership.
 *   🚀 **Co-founder** at **Mestion** (Software Solutions Startup)
-*   🧠 **Interests**: Data Science, AI Agents, Data Mining, and Machine Learning.
+*   🧠 **Interests**: Industrial Software, Industry 4.0, MES Systems, Data Science, AI Agents, Data Mining, and Machine Learning.
 
 ---
 
 ## 📝 Research & Publications
 
 *   **ICCSA 2026** (The International Conference on Computational Science and its Applications)
-    *   *Paper:* "Predicting Bitcoin Price Movements Using Tweet Data, LLM Zero-Shot Learning, and Feature Extraction"
+    *   *Paper:* **"Zero-Shot LLM Sentiment Meets Market Microstructure: Parsimonious Feature Selection for High-Frequency Bitcoin Forecastings"**
     *   *Focus:* Utilizing social sentiment, financial data, and LLM zero-shot capabilities to forecast crypto volatility.
 
 ---
@@ -36,11 +36,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanMarques31&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanMarques31&layout=compact&theme=radical&hide=html,css" alt="Top Languages" width="48%" />
-</p>
+Here are my GitHub metrics:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanMarques31&theme=radical" alt="GitHub Streak" width="100%" />
-</p>
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanMarques31&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanMarques31&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanMarques31&theme=tokyonight)
