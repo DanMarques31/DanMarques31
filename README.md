@@ -38,8 +38,8 @@
 
 Here are my GitHub metrics:
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanMarques31&show_icons=true&theme=tokyonight&count_private=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanMarques31&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanMarques31&layout=compact&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanMarques31&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanMarques31&theme=tokyonight)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanMarques31&theme=tokyonight)
